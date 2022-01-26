@@ -1,3 +1,5 @@
 # i_am_poor
-# Steak 02 
-# Mission Flutter
+ Flutter Steak 02 
+ Mission Flutter
+
+Instructor : Angela Yu
